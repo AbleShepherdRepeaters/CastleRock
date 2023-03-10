@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder><name>Coverage of 625 Morningstar 5W Handheld 90% 50km VHRes</name>
+<GroundOverlay><name>Coverage</name>
+<description>462.625 MHz | 
+47.75 W ERPI | 
+169.03 dB System Gain</description>
+<color>88ffffff</color><Icon><href>RM76F4851AC370_0.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 39.82861</north>
+<south> 38.92929</south>
+<east>-104.2549</east>
+<west>-105.4183</west>
+</LatLonBox></GroundOverlay>
+<Placemark><name>Morningstar Home</name>
+<Point><coordinates>-104.83660966, 39.37894999,0
+</coordinates></Point></Placemark></Folder></kml>
